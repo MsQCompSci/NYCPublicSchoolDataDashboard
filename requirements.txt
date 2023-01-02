@@ -1,4 +1,4 @@
-dash--2.6.0
+dash==2.6.0
 plotly
 pandas
 dash_html_components # dash html components
