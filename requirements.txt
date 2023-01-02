@@ -2,7 +2,7 @@ dash==2.6.0
 plotly
 pandas
 dash_html_components # dash html components
-pdash_core_components # dash core components 
+dash_core_components # dash core components 
 dash-table # data table components
 dash-auth # for user authentication
 gunicorn # needed for deployment 
