@@ -1,11 +1,8 @@
-pip install Flask
-pip install dash
-pip install plotly
-pip install pandas
-pip install dash_html_components # dash html components
-pip install dash_core_components # dash core components 
-pip install PriceIndices # will used for this tutorial for data 
-pip install lxml # Needed for PriceIndices package
-pip install dash-table # data table components
-pip install dash-auth # for user authentication
-pip install gunicorn # needed for deployment 
+dash--2.6.0
+plotly
+pandas
+dash_html_components # dash html components
+pdash_core_components # dash core components 
+dash-table # data table components
+dash-auth # for user authentication
+gunicorn # needed for deployment 
